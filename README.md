@@ -5,4 +5,3 @@
 - 👯 I’m looking for friends and collaborators<br>
 - 🤔 I’m looking for help with programming..<br>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivana-gabriela-787b1b219/)<br>
-- ⚡ Fun fact: IDK... Nothing's fun about me. I play guitar I guess(?)<br>
