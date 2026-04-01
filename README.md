@@ -3,4 +3,6 @@
 🔭 Welcome to my GitHub!<br>
 
 ### :fire: My Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev2jz&theme=tokyonight&show_icons=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
