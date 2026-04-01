@@ -2,7 +2,7 @@
 
 🔭 Welcome to my GitHub!<br>
 
-### 📊:fire: My GitHub Stats:
+### 📊 :fire: My GitHub Stats:
 ![My Stats](./github-metrics.svg)
 
 ---
