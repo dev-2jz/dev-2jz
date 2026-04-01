@@ -9,6 +9,3 @@
 
 ### 🛠️ Top Languages
 *Calculated based on recent activity across all repositories.*
-
----
-*Last updated by GitHub Actions on: ${{ date }}*
